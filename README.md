@@ -1,5 +1,10 @@
 # GEMINI - partial genetic correlation when adjusting for BMI genetics
 
+<!-- badges: start -->
+[![](https://img.shields.io/badge/version-1.0-informational.svg)](https://github.com/GEMINI-multimorbidity/partialLDSC)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17725332.svg)](https://doi.org/10.5281/zenodo.17725332)
+<!-- badges: end -->
+
 This repository contains the scripts for the paper:
 
  - Mounier et al. (2025) "Genetics identifies obesity as a shared risk factor for co-occurring multiple long-term conditions" Communications Medicine
